@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/camino-tec/shopee-sdk/compare/v1.0.0...v1.0.1) (2025-09-04)
+
+
+### Correções de Bugs
+
+* update package name to remove scope ([2977a67](https://github.com/camino-tec/shopee-sdk/commit/2977a67be09965e5d0d7c3cafdede4926f240979))
+
 ## 1.0.0 (2025-09-04)
 
 
