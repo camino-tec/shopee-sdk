@@ -1,3 +1,10 @@
+## 1.0.0 (2025-09-04)
+
+
+### Correções de Bugs
+
+* update repository URL to use HTTPS and remove devEngines section ([11fee6a](https://github.com/camino-tec/shopee-sdk/commit/11fee6abc1eb8fae29b825a219621b62a4e61077))
+
 ## [1.2.0](https://github.com/Avantpro/Avantpro-ShopeeSDK/compare/v1.1.3...v1.2.0) (2024-06-05)
 
 
