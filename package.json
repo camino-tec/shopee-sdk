@@ -4,16 +4,14 @@
   "version": "1.2.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "devEngines": {
-    "node": "18.x || 20.x || 21.x"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/camino-tec/shopee-sdk.git"
-  },
   "author": "Camino Tec",
   "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camino-tec/shopee-sdk.git"
+  },
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org"
   },
   "scripts": {
