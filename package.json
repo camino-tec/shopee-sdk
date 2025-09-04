@@ -1,5 +1,5 @@
 {
-  "name": "@camino-tec/shopee-sdk",
+  "name": "shopee-sdk",
   "description": "SDK TypeScript para integração com a API da Shopee",
   "version": "1.2.0",
   "main": "dist/index.js",
